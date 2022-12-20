@@ -1,0 +1,9 @@
+export const TITLE = "Title";
+export const PRICE = "Price";
+export const DATE = "Date";
+export const ADD_EXPENSE = "Add Expense";
+export const ADD_NEW_EXPENSE = "Add New Expense";
+export const EXIT_BUTTON = "Exit";
+export const FILTER_BY_YEAR = "Filter by Year";
+export const OPTION = [2022, 2021, 2020, 2019];
+export const NOT_FOUND = "No Expenses Found..!!";
